@@ -15,7 +15,6 @@
     <h1 data-aos="flip-right">Hello, world!</h1>
 </div>
 </body>
-<script src="js/jquery.js"></script>
 <script src="js/aos.js"></script>
 <script>
 AOS.init({
